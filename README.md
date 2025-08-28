@@ -14,6 +14,7 @@
 - English for skill Enhancement
 - Electronic devices and Applications
 - Seminar
+- Environmental science
 - Labs:
   - Chemistry Lab  
   - Programming Lab  
